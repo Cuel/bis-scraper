@@ -4,7 +4,7 @@ var chalk = require('chalk');
 
 const URL_BASE = 'http://community.bistudio.com';
 const URL_A3_SCRIPT_COMMANDS = URL_BASE + '/wiki/Category:Scripting_Commands_Arma_3';
-const URL_BIS_FUNCTIONS = URL_BASE + 'wiki/Category:Arma_3:_Functions';
+const URL_BIS_FUNCTIONS = URL_BASE + '/wiki/Category:Arma_3:_Functions';
 
 exports.scrapeScriptingCommands = function (callback) {
     
