@@ -1,0 +1,24 @@
+{
+  "name": "bis-scraper",
+  "version": "0.0.1",
+  "description": "Scrapes BIS wiki site for scripting commands and functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bis",
+    "scraper",
+    "arma",
+    "functions",
+    "sqf",
+    "sqm"
+  ],
+  "author": "Cuel",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "cheerio": "^0.18.0",
+    "request": "^2.51.0"
+  }
+}
